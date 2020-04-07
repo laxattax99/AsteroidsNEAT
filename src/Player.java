@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import processing.core.PApplet;
 import processing.core.PVector;
-import sun.misc.ASCIICaseInsensitiveComparator;
 
 public class Player {
 
